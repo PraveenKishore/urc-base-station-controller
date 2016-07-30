@@ -1,2 +1,4 @@
 # urc-base-station-controller
-Base Station Controller for Astra Robotics URC Rover
+Base Station Controller for [Astra Robotics](http://astrarobotics.in) URC Rover
+
+* **Programming Language:** Python 3
